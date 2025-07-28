@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.parquet
+*.xlsx
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Docker
+*.log
+*.pid
+*.sock
